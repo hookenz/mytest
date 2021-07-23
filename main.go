@@ -8,5 +8,5 @@ func helloWorld() {
 
 func main() {
 	helloWorld()
-	return 0
+	return
 }
