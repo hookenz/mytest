@@ -2,7 +2,11 @@ package main
 
 import "fmt"
 
+func helloWorld() {
+	fmt.Println("Hello world")
+}
+
 func main() {
-	fmt.Println("Hello World")
+	helloWorld()
 	return 0
 }
