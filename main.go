@@ -8,5 +8,6 @@ func helloWorld(n string) {
 
 func main() {
 	helloWorld("Jane")
+	otherFunc()
 	return 0
 }
