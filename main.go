@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-func helloWorld() {
-	fmt.Println("Hello world")
+func helloWorld(name string) {
+	fmt.Println("Hello %s", name)
 }
 
 func main() {
-	helloWorld()
+	helloWorld("bob")
 	return 0
 }
