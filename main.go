@@ -7,6 +7,7 @@ func helloWorld(n string) {
 }
 
 func main() {
-	helloWorld("bob")
+	helloWorld("Jane")
+	otherFunc()
 	return 0
 }
