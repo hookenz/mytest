@@ -1,0 +1,6 @@
+version: '3'
+services:
+ nginx:
+  image: 016798005345.dkr.ecr.ap-southeast-2.amazonaws.com/mctest:latest
+  tty: true
+  stdin_open: true
