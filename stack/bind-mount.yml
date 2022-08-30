@@ -4,6 +4,6 @@ services:
     image: nginx:alpine
     restart: always
     ports:
-      - "3006:80"
+      - "3010:80"
     volumes:
       - ./www:/usr/share/nginx/html
