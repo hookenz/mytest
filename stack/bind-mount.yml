@@ -1,7 +1,7 @@
 version: "3.9"
 services:
-webapp:
-  image: nginx:alpine
+  webapp:
+    image: nginx:alpine
     restart: always
     ports:
       - "3005:80"
