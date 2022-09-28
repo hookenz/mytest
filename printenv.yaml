@@ -9,5 +9,4 @@ spec:
   - name: command-demo-container
     image: debian
     command: ["printenv"]
-    args: ["name"]
   restartPolicy: OnFailure
