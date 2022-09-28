@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: command-demo-container
-    image: debian
+    image: debian:8.7
     command: ["printenv"]
   restartPolicy: OnFailure
