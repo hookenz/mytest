@@ -6,7 +6,6 @@ metadata:
     purpose: demonstrate-command
 spec:
   containers:
-  - name: command-demo-container
-    image: debian:8.7
-    command: ["printenv"]
+  - name: printenv-demo-container
+    image: hookenz/printenv
   restartPolicy: OnFailure
