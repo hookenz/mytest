@@ -20,6 +20,9 @@ spec:
         image: hookenz/printenv
         ports:
         - containerPort: 8080
+  env:
+    - name: FOO
+      value: BAR
 ---
 apiVersion: v1
 kind: Service
