@@ -3,5 +3,5 @@ package libhello
 import "fmt"
 
 func Hello() {
-	fmt.Println("Hello from libhelm")
+	fmt.Println("Hello from libhello")
 }
