@@ -1,4 +1,4 @@
-package helm
+package libhello
 
 import "fmt"
 
