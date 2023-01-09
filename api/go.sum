@@ -1,2 +1,5 @@
-github.com/hookenz/mytest/pkg/libhello v0.0.0-20221130193817-14cfd66d1793 h1:b2UXtEoQZEdLQOK2rehaobaCtZgnoPntkMLS3MicCk0=
-github.com/hookenz/mytest/pkg/libhello v0.0.0-20221130193817-14cfd66d1793/go.mod h1:XZ9WK9LcHy95KhMfKCRe7FJsgLM/VLzzMAWwMv+nM8w=
+github.com/hookenz/mytest v1.0.0 h1:t6x4oMcxwn2fXKuHdMlyYbD9LLuVUJUyrjRO1KuDoJk=
+github.com/hookenz/mytest/pkg/libhello v1.0.1 h1:l/nRqWu6C3t1d2DSwIXXYM+tCxZ7s0el39Ysy/CgVy0=
+github.com/hookenz/mytest/pkg/libhello v1.0.1/go.mod h1:XZ9WK9LcHy95KhMfKCRe7FJsgLM/VLzzMAWwMv+nM8w=
+github.com/hookenz/mytest/pkg/libhello v1.2.6 h1:Hj1nFUT7cZ4SdCgenUmqoiBQ/TWRZMWnO/vXI+LZaK4=
+github.com/hookenz/mytest/pkg/libhello v1.2.6/go.mod h1:XZ9WK9LcHy95KhMfKCRe7FJsgLM/VLzzMAWwMv+nM8w=
