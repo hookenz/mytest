@@ -20,7 +20,6 @@ services:
     image: wordpress:5.1.1-fpm-alpine
     container_name: wordpress
     restart: unless-stopped
-    env_file: .env
     environment:
       - WORDPRESS_DB_HOST=db:3306
       - WORDPRESS_DB_USER=$MYSQL_USER
